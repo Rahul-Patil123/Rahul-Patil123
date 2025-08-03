@@ -9,6 +9,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiO/giphy.gif" width="300" alt="Jenkins Animation" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Kubernetes DevOps Animation" />
+</p>
 
 
 ---
