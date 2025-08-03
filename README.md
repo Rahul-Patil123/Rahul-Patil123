@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="DevOps Animation" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiO/giphy.gif" width="300" alt="Jenkins Animation" />
+</p>
 
 
 ---
