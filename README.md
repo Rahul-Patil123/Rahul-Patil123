@@ -23,7 +23,8 @@ I love crafting reliable CI/CD pipelines, automating systems, and deploying scal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" alt="Helm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
 </p>
 
 ---
@@ -80,7 +81,7 @@ A fun, animated, and technical portfolio that reflects my DevOps mindset.
 
 ### 👁️ Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rahul-github&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=rahul-patil123&style=flat-square&color=blue)
 
 ---
 
