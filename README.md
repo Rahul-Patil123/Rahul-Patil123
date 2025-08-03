@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZnbnhnb3ltZmF2eDFlZmF0MmExdTlydWJ3Z2d4a3o1OXQ2NGhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rutME0GGuF9ZVQGQMA/giphy.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/khoa083/khoa083/master/docker.gif" width="200" alt="DevOps Animation" />
 </p>
 
 ---
@@ -23,8 +23,7 @@ I love crafting reliable CI/CD pipelines, automating systems, and deploying scal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" alt="Helm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
 </p>
 
 ---
@@ -61,6 +60,14 @@ A fun, animated, and technical portfolio that reflects my DevOps mindset.
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahul-github&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 <p align="left">
@@ -78,4 +85,3 @@ A fun, animated, and technical portfolio that reflects my DevOps mindset.
 ---
 
 > “Automate the boring, simplify the complex, and let your work speak.”
-
