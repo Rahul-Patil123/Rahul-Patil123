@@ -23,7 +23,8 @@ I love crafting reliable CI/CD pipelines, automating systems, and deploying scal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" alt="Helm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
 </p>
 
 ---
@@ -45,8 +46,7 @@ Teachers can design, track, and analyze **Report Outcomes (RO)**, **Learning Out
   - Dockerized backend/frontend
   - Deployment pipeline with Jenkins + Docker Compose
   - Ready for Terraform + AWS provisioning
-- 🔗 [Frontend Repo](https://github.com/rahul-github/mayoor-frontend)  
-- 🔗 [Backend Repo](https://github.com/rahul-github/mayoor-backend)  
+- 🔗 [Backend Repo](https://github.com/SachinXCode313/Mayoor-Backend)
 
 ---
 
@@ -57,7 +57,7 @@ A fun, animated, and technical portfolio that reflects my DevOps mindset.
 - 🔍 Dynamically pulls GitHub repos via keyword
 - 🐳 Fully Dockerized  
 - ⚙️ CI/CD with GitHub Actions and **Jenkins (as an alternative pipeline)**
-- 🌐 Hosted at: [desktoppers.me](https://desktoppers.me)
+- 🌐 Hosted at: [desktoppers.me](https://portfolio.desktoppers.me)
 
 ---
 
