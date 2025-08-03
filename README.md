@@ -88,3 +88,6 @@ A fun, animated, and technical portfolio that reflects my DevOps mindset.
 ---
 
 > “Automate the boring, simplify the complex, and let your work speak.”
+<p align="center">
+  🐳💨 &nbsp; 🚀 &nbsp; 🤖 &nbsp; 🐙
+</p>
