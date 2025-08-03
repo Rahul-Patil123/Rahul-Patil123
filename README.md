@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa083/master/docker.gif" width="200" alt="DevOps Animation" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/devops.gif" width="300" alt="DevOps Tools Animation" />
 </p>
+
 
 ---
 
@@ -64,7 +65,7 @@ A fun, animated, and technical portfolio that reflects my DevOps mindset.
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahul-github&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-Patil123&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -81,7 +82,7 @@ A fun, animated, and technical portfolio that reflects my DevOps mindset.
 
 ### 👁️ Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rahul-Patil123&style=flat-square&color=violet)
+![Visitor Count](https://komarev.com/ghpvc/?username=Rahul-Patil123&style=flat-square&color=blue)
 
 ---
 
