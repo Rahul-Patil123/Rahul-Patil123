@@ -44,7 +44,7 @@ Teachers can design, track, and analyze **Report Outcomes (RO)**, **Learning Out
   - AC/LO/RO-based performance tracking with weighted calculations
   - Detailed student reports & averages by term, quarter, and subject
 - 🔒 Authentication: Google OAuth via Firebase  
-- 🔧 DevOps:
+- 🔧 DevOps (WIP):
   - Dockerized backend/frontend
   - Deployment pipeline with Jenkins + Docker Compose
   - Ready for Terraform + AWS provisioning
