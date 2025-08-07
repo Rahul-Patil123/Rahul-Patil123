@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rahul Ganeshwar Patil 👋</h1>
 <p align="center">
-  <em>DevOps Engineer | Full-Stack Developer | Builder of Scalable Systems</em>
+  <em>DevOps Engineer | Builder of Scalable Systems</em>
 </p>
 
 <p align="center">
